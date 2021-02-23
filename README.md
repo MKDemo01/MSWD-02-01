@@ -1,3 +1,5 @@
-# MSWebDev
+# MSWD-02-01
 MS Web Dev Course
-Tests using local Git and GitHub
+Section 02 - Introduction to GitHub - Subsection 01
+
+Collaboration Tests using local Git and GitHub - After move to MKDemo01
